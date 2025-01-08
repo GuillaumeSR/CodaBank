@@ -1,6 +1,6 @@
 # Projet Coda Bank
 
-Bienvenue dans le projet **Coda Bank**. Je vais vous guidez pour installer et exécuter l'application correctement.
+Bienvenue dans mon projet **Coda Bank**. Je vais vous guidez pour installer et exécuter l'application correctement.
 
 ## Prérequis
 
