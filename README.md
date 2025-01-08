@@ -16,34 +16,34 @@ Suivez ces étapes pour installer le projet :
 
 1. **Cloner le dépôt GitHub** :
 
-   
-bash
+   ```bash
    git clone https://github.com/GuillaumeSR/CodaBank.git
-   
+   ```
+
 2. **Se rendre dans le répertoire du projet** :
 
-   
-bash
+   ```bash
    cd CodaBank
-   
+   ```
+
 3. **Initialiser le projet avec npm** :
 
-   
-bash
+   ```bash
    npm i
-   
+   ```
+
 4. **Compiler le projet** :
 
-   
-bash
+   ```bash
    npm run build
-   
+   ```
+
 5. **Démarrer l'application** :
 
-   
-bash
+   ```bash
    npm run start
+   ```
    
 ## Exécution
 
-Une fois que vous avez exécuté `npm run start`, l'application sera lancée. Vous pouvez accéder à l'application via votre Terminal.
+Une fois que vous aurez exécuté `npm run start`, l'application sera lancée. Vous pouvez accéder à l'application via votre Terminal.
